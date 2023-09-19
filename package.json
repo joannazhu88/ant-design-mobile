@@ -1,5 +1,5 @@
 {
-  "name": "antd-mobile-test",
+  "name": "@ali/antd-mobile-test",
   "version": "0.0.1",
   "scripts": {
     "start": "dumi dev",
