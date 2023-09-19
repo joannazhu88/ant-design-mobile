@@ -147,7 +147,7 @@
     "./src/global/index.ts"
   ],
   "publishConfig": {
-    "registry": "https://registry.npm.alibaba-inc.com"
+    "registry": "https://registry.anpm.alibaba-inc.com"
   },
   "repository": {
     "type": "git",
